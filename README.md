@@ -1,6 +1,6 @@
 # cycle-analysis-software
 
-![Cycle Analysis Software](https://2.bp.blogspot.com/-fdIDrw7XTq8/XDQrF7ethFI/AAAAAAAADZA/Dk1xdjGmp3gGhXmNH0ntrct_Zq3ZiPVBgCLcBGAs/s640/Cycle-Analysis-Software.jpg)
+![Cycle Analysis Software](https://raw.githubusercontent.com/goldest-star/cycle-analysis-software/aa918146624fe64db2de4ddecf59280373f14f25/CycleAnalysisSoftwareB/CycleAnalysisSoftwareB/cycle-anlaysis.jpg)
 
 ### College Project
 - For Educational Purpose Only
